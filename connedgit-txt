@@ -1,0 +1,64 @@
+ cd Desktop/alibab/
+    2  mkdir alibabGit
+    3  dir
+    4  cd alibabGit/
+    5  pwd
+    6  ls
+    7  ls -la
+    8  cd ..
+    9  ls
+   10  cd alibabGit/
+   11  ls
+   12  ls-a
+   13  cls
+   14  ls -a
+   15  clear
+   16  git init
+   17  cd ..
+   18  ls -a
+   19  cd alibabGit/
+   20  ls -a
+   21  clear
+   22  ls -la
+   23  git stotus
+   24  git stotus
+   25  clear
+   26  git status
+   27  touch text.txt
+   28  ls
+   29  git status
+   30  git add text.txt
+   31  git status
+   32  nono text.txt
+   33  nano text.txt
+   34  text.txt
+   35  cat text.txt
+   36  git status
+   37  git restore text.txt
+   38  git status
+   39  cat text.txt
+   40  nano text.txt
+   41  cat text.txt
+   42  echo faisal > text.txt
+   43  cat text.txt
+   44  echo Alanazi >> text.txt
+   45  cat text.txt
+   46  git stauts
+   47  git stauts
+   48  ls -a
+   49  git status
+   50  git add text.txt
+   51  git commit -m 'added text.txt filed
+git commt -m 'added text.txt filed
+   52  git commit -m 'added text.txt filed
+git commit -m 'added text.txt filed
+   53  git commit -m 'added text.txt filed
+git commit -m 'added text.txt filed
+   54  git commit -m 'added text.txt files
+file
+exit
+git
+   55  git commit -m 'added text.txt filed'
+   56  git log
+   57  History
+   58  history
